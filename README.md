@@ -1,6 +1,6 @@
 <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-# Hi! I learn. I code. I build.:man technologist:
+# Hi! I learn. I code. I build.:man_technologist:
 
 
 I'm Princewill, a Software developer I solve problems with my codes. Let's collaborate and code the extraodinary .
@@ -16,8 +16,8 @@ I'm Princewill, a Software developer I solve problems with my codes. Let's colla
 <p align="center">
   
   
-- Contributing on: <a href="https://github.com/PluckyPreciou?tab=followers">
-    <img src="https://img.shields.io/github/followers/PluckyPrecious?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
+- Contributing on: <a href="https://github.com/Kanemwills?tab=followers">
+    <img src="https://img.shields.io/github/followers/Kanemwills?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
   </a>
 
 
