@@ -1,6 +1,10 @@
 <p align="center"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-# Hi! I learn. I code. I build.:man_technologist:
+<p align="center"> I learn. I code. I build.:man_technologist:<p>
+
+<hr>
+
+<h1 align="center"> Open for Hiring</h1>
 
 <p align="center">
   <samp>I'm Princewill, a Software developer I solve problems with my codes. Let's collaborate and code the extraodinary.
@@ -9,27 +13,16 @@
   <img src="https://komarev.com/ghpvc/?username=kanemwills" alt="https://github.com/Kanemwills" />
 </p>
 
+<hr>
 
-
-
-
-
+h2  align="center">📫 Reach me on</h2>
 <p align="center">
-  
-  
-- Contributing on: <a href="https://github.com/Kanemwills?tab=followers">
-    <img src="https://img.shields.io/github/followers/Kanemwills?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
-  </a>
-
-
-- Trying to be up to good on: <a href="http://twitter.com/Kanemwills">
-    <img src="https://img.shields.io/twitter/follow/Kanemwills?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-
-
+  <a target="_blank"href="https://www.linkedin.com/in/princewill-udoh-3ba936211/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/kanemwills"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:udohprincewill144@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
+<hr>
 
 
 ## <h3 align="left">GitHub Stats</h3>
@@ -82,9 +75,9 @@
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/ileriayooo"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/princewill-udoh-3ba936211/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/kanemwills"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:udohprincewill144@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
